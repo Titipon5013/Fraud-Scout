@@ -79,6 +79,12 @@ Fraud-Scout/
 
 Fraud-Scout follows a strict zero-data retention approach. Uploaded transaction data is processed only in memory during the active session and is not saved to any database.
 
+## 📦 Data Source
+
+This project uses the "Retail Store Sales (dirty for data cleaning)" dataset from Kaggle: https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning
+
+Credit: Ahmed Mohamed (Kaggle dataset author).
+
 ## 👨‍💻 Developer
 
 Developed by: Titipon Tawong
